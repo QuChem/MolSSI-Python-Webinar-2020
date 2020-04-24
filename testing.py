@@ -1,3 +1,6 @@
+"""
+This is a test.
+"""
 import geom_analysis as ga
 
 def test_calculate_distance():
